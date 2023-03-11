@@ -11,6 +11,6 @@ Dictionary: Tanımlama işlemi {} ile yapılır.Mapping(haritalama)veri tipidir.
 KODLAMA.İO SİTESİNDEN ÖRNEKLER:
 Kurs Programlarının adı->String
 Sitenin başlangıcında verilen kursların listesi->List
-Eğitmenin adı->Sting
+Eğitmenin adı->String
 Yorum Sayısı->Integer
 Kurs Tamamlanma Yüzdeleri->Integer
