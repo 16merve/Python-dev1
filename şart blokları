@@ -1,0 +1,12 @@
+KODLAMA.İO'DA KULLANILAN ŞART BLOĞU ÖRNEĞİ:
+#Kodlama.io Sitesine Giriş Sistemi:
+email="56789@gmail.com"
+password=56789
+#Kullanıcıdan e-posta ve şifre istenir
+giris_email=input("Email giriniz:")
+giris_password=input("Şifre giriniz:")
+
+if (email==giris_email) and (password==giris_password):
+  print("Giriş başarılıdır")
+else:
+    print("Email ya da şifre yalnış!Tekrar deneyiniz.")
