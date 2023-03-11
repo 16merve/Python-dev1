@@ -1,0 +1,16 @@
+Python'da Veri Tipleri:
+Sting: Metinsel ifadeleri tutar. Metin veri tipidir.
+Integer: Tam sayıları tutar.Sayısal veri tipidir.
+Float: Ondalık sayıları tutar.Sayısal veri tipidir.
+Boolean: True ya da False değerlerini tutar.Mantıksal veri tipidir.
+Complex: Karmaşık sayıları tutar.Sayısal veri tipidir.
+List: Aynı ya da farklı türden birden fazla verileri içerir.[] şekilde tanımlanır.Sıralama veri tipidir.
+Tuple: List ile benzerdir.Tek farkı ise () şeklinde tanımlanır.
+Dictionary: Tanımlama işlemi {} ile yapılır.Mapping(haritalama)veri tipidir.
+
+KODLAMA.İO SİTESİNDEN ÖRNEKLER:
+Kurs Programlarının adı->String
+Sitenin başlangıcında verilen kursların listesi->List
+Eğitmenin adı->Sting
+Yorum Sayısı->Integer
+Kurs Tamamlanma Yüzdeleri->Integer
